@@ -169,7 +169,7 @@ pip install --upgrade -r requirements.txt
 ## 📞 Kontak
 
 **Developer:** Syahrul Azka  
-**Email:** [email@example.com]  
+**Email:** [syahrulazka91@gmail.com]  
 **GitHub:** [syahrulazka](https://github.com/syahrulazka)
 
 ## 📄 Lisensi
