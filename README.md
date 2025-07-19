@@ -60,7 +60,7 @@ Aplikasi akan terbuka di browser pada alamat `http://localhost:8501`
 
 ```
 chatbot-krs/
-├── app.py                 # File utama aplikasi Streamlit
+├── chatbot_app.py                 # File utama aplikasi Streamlit
 ├── requirements.txt       # Dependencies Python
 ├── README.md             # Dokumentasi project
 ├── data/                 # Folder untuk file JSON (opsional)
