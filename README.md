@@ -58,7 +58,7 @@ mkdir data
 ## 🏃‍♂️ Menjalankan Aplikasi
 
 ```bash
-streamlit run app.py
+streamlit run chatbot_app.py
 ```
 
 Aplikasi akan terbuka di browser pada alamat `http://localhost:8501`
