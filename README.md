@@ -18,13 +18,6 @@ Aplikasi chatbot berbasis web menggunakan Streamlit untuk membantu mahasiswa dal
 - **scikit-learn** - TF-IDF vectorization dan cosine similarity
 - **pandas & numpy** - Data manipulation
 - **fuzzywuzzy** - Fuzzy string matching
-- **python-Levenshtein** - Optimasi untuk fuzzywuzzy
-
-## 📋 Persyaratan Sistem
-
-- Python 3.7 atau lebih baru
-- Minimal 512MB RAM
-- Koneksi internet untuk instalasi dependencies
 
 ## 🚀 Instalasi
 
