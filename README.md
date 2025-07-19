@@ -43,11 +43,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. **Buat folder data dan tambahkan file JSON (opsional):**
-```bash
-mkdir data
-```
-
 ## 🏃‍♂️ Menjalankan Aplikasi
 
 ```bash
