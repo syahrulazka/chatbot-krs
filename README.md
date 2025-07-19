@@ -140,12 +140,6 @@ pip install --upgrade -r requirements.txt
 - Pastikan firewall tidak memblokir port 8501
 - Coba jalankan dengan: `streamlit run app.py --server.port 8502`
 
-## 📞 Kontak
-
-**Developer:** Syahrul Azka  
-**Email:** [syahrulazka91@gmail.com]  
-**GitHub:** [syahrulazka](https://github.com/syahrulazka)
-
 ## 📄 Lisensi
 
 Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
