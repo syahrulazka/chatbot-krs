@@ -1,0 +1,19 @@
+# KRS Chatbot - Requirements
+
+# Core libraries
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Text Processing & Fuzzy Matching
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.21.0
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Optional: For better performance
+Cython>=0.29.0

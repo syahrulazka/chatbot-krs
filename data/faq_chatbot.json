@@ -1,0 +1,206 @@
+[
+  {
+    "pertanyaan": "Bagaimana cara memilih mata kuliah yang tepat untuk semester ini?",
+    "jawaban": "Untuk memilih mata kuliah yang tepat: 1) Konsultasi dengan dosen pembimbing akademik, 2) Periksa kurikulum dan mata kuliah wajib, 3) Pertimbangkan mata kuliah prasyarat, 4) Sesuaikan dengan kemampuan akademik dan IPK, 5) Perhatikan beban SKS yang seimbang, 6) Pilih mata kuliah pilihan yang relevan dengan minat dan karir."
+  },
+  {
+    "pertanyaan": "Berapa jumlah SKS minimum dan maksimum yang boleh saya ambil per semester?",
+    "jawaban": "Jumlah SKS per semester berdasarkan IPK: Minimum 12 SKS untuk semua mahasiswa. Maksimum: IPK ≥ 3.00 dapat mengambil 24 SKS, IPK 2.50-2.99 dapat mengambil 21 SKS, IPK 2.00-2.49 dapat mengambil 18 SKS, IPK < 2.00 dapat mengambil 15 SKS. Mahasiswa semester 1 maksimal 20 SKS."
+  },
+  {
+    "pertanyaan": "Apakah ada prasyarat untuk mengambil mata kuliah tertentu? Bagaimana saya bisa mengeceknya?",
+    "jawaban": "Ya, banyak mata kuliah memiliki prasyarat. Cara mengecek: 1) Lihat di kurikulum program studi, 2) Cek sistem akademik online pada detail mata kuliah, 3) Konsultasi dengan dosen pembimbing akademik, 4) Tanyakan ke administrasi fakultas. Sistem akan otomatis memblokir jika prasyarat belum terpenuhi."
+  },
+  {
+    "pertanyaan": "Bisakah saya mengambil mata kuliah lintas jurusan atau lintas fakultas?",
+    "jawaban": "Ya, mata kuliah lintas jurusan/fakultas dapat diambil dengan syarat: 1) Persetujuan dosen pembimbing akademik, 2) Mata kuliah relevan dengan program studi, 3) Memenuhi prasyarat yang diperlukan, 4) Tidak melebihi batas maksimal SKS, 5) Mendapat persetujuan dari fakultas terkait, 6) Ada kuota tersedia di kelas tersebut."
+  },
+  {
+    "pertanyaan": "Apa konsekuensinya jika saya tidak memenuhi batas minimal SKS dalam satu semester?",
+    "jawaban": "Konsekuensi tidak memenuhi batas minimal SKS (12 SKS): 1) Status mahasiswa menjadi tidak aktif, 2) Tidak dapat melanjutkan ke semester berikutnya, 3) Harus mengurus reaktivasi status mahasiswa, 4) Kemungkinan perpanjangan masa studi, 5) Dapat mempengaruhi beasiswa atau bantuan finansial, 6) Perlu konsultasi dengan dosen PA untuk perbaikan rencana studi."
+  },
+  {
+    "pertanyaan": "Bagaimana cara mengetahui jadwal kuliah dan bentrok jadwal?",
+    "jawaban": "Cara cek jadwal dan bentrok: 1) Login ke sistem akademik dan lihat jadwal mata kuliah, 2) Sistem akan otomatis mendeteksi bentrok saat pengisian KRS, 3) Gunakan fitur simulasi KRS sebelum submit final, 4) Konsultasi dengan dosen PA jika ada bentrok, 5) Cari kelas paralel atau jadwal alternatif, 6) Koordinasi dengan administrasi fakultas untuk solusi bentrok."
+  },
+  {
+    "pertanyaan": "Apakah ada panduan untuk menyusun KRS agar lulus tepat waktu?",
+    "jawaban": "Panduan menyusun KRS untuk lulus tepat waktu: 1) Ikuti alur kurikulum yang direkomendasikan, 2) Prioritaskan mata kuliah wajib dan prasyarat, 3) Ambil SKS sesuai kemampuan akademik, 4) Konsultasi rutin dengan dosen PA, 5) Monitor progress studi setiap semester, 6) Hindari mengulang mata kuliah, 7) Manfaatkan semester pendek jika diperlukan."
+  },
+  {
+    "pertanyaan": "Jika ada mata kuliah pilihan, bagaimana cara memilih yang sesuai dengan minat dan rencana karir saya?",
+    "jawaban": "Tips memilih mata kuliah pilihan: 1) Identifikasi tujuan karir dan bidang minat, 2) Konsultasi dengan dosen PA dan dosen di bidang terkait, 3) Riset tentang prospek kerja dari mata kuliah tersebut, 4) Pertimbangkan sertifikasi atau kompetensi yang bisa diperoleh, 5) Lihat silabus dan metode pembelajaran, 6) Cari informasi dari senior atau alumni."
+  },
+  {
+    "pertanyaan": "Bisakah saya mengubah mata kuliah setelah KRS disetujui?",
+    "jawaban": "Perubahan KRS setelah disetujui dapat dilakukan dengan ketentuan: 1) Masih dalam masa revisi KRS (biasanya 1-2 minggu setelah perkuliahan dimulai), 2) Mendapat persetujuan dosen pembimbing akademik, 3) Mengisi formulir perubahan KRS, 4) Dikenakan biaya administrasi, 5) Harus memenuhi syarat mata kuliah baru yang dipilih."
+  },
+  {
+    "pertanyaan": "Berapa total biaya SKS untuk semester ini?",
+    "jawaban": "Total biaya SKS dihitung berdasarkan: Biaya per SKS x Jumlah SKS yang diambil. Biaya per SKS berbeda untuk setiap program studi dan jenjang. Untuk informasi detail biaya per SKS dan total pembayaran, silakan cek sistem akademik pada menu pembayaran atau hubungi bagian keuangan universitas."
+  },
+  {
+    "pertanyaan": "Apakah ada biaya tambahan selain biaya SKS?",
+    "jawaban": "Ya, ada beberapa biaya tambahan selain SKS: 1) Biaya praktikum dan laboratorium, 2) Biaya ujian dan sertifikasi, 3) Biaya bimbingan tugas akhir, 4) Biaya wisuda dan ijazah, 5) Biaya asuransi mahasiswa, 6) Biaya fasilitas dan perpustakaan, 7) Biaya keterlambatan jika ada. Detail biaya dapat dilihat di rincian pembayaran."
+  },
+  {
+    "pertanyaan": "Bagaimana cara melihat rincian pembayaran KRS saya?",
+    "jawaban": "Cara melihat rincian pembayaran KRS: 1) Login ke sistem akademik, 2) Pilih menu 'Keuangan' atau 'Pembayaran', 3) Klik 'Rincian Biaya' atau 'Tagihan Semester', 4) Sistem akan menampilkan detail biaya per item, 5) Dapat diunduh dalam format PDF, 6) Atau hubungi bagian keuangan untuk informasi lebih detail."
+  },
+  {
+    "pertanyaan": "Apa konsekuensinya jika saya terlambat membayar biaya KRS?",
+    "jawaban": "Konsekuensi terlambat bayar KRS: 1) Dikenakan denda keterlambatan sesuai kebijakan universitas, 2) KRS dapat dibatalkan otomatis oleh sistem, 3) Tidak dapat mengikuti perkuliahan dan ujian, 4) Status mahasiswa menjadi tidak aktif, 5) Harus mengurus reaktivasi dengan biaya tambahan, 6) Kemungkinan kehilangan tempat di mata kuliah tertentu."
+  },
+  {
+    "pertanyaan": "Apakah ada cicilan atau keringanan pembayaran untuk biaya KRS?",
+    "jawaban": "Program bantuan pembayaran yang tersedia: 1) Cicilan pembayaran dengan persetujuan bagian keuangan, 2) Beasiswa penuh atau parsial untuk mahasiswa berprestasi, 3) Keringanan biaya untuk mahasiswa kurang mampu, 4) Program bantuan dari yayasan atau sponsor, 5) Beasiswa pemerintah atau swasta. Hubungi bagian keuangan atau kemahasiswaan untuk informasi lebih lanjut."
+  },
+  {
+    "pertanyaan": "Bagaimana cara mengurus jika ada kesalahan dalam perhitungan biaya KRS?",
+    "jawaban": "Langkah mengurus kesalahan biaya KRS: 1) Screenshot atau cetak bukti kesalahan perhitungan, 2) Hubungi bagian keuangan dengan membawa bukti, 3) Isi formulir pengajuan koreksi biaya, 4) Sertakan dokumen pendukung (KRS, transkrip, dll), 5) Tunggu proses verifikasi dari bagian keuangan, 6) Koreksi akan diproses dalam 3-5 hari kerja."
+  },
+  {
+    "pertanyaan": "Kapan jadwal pengisian KRS untuk semester depan?",
+    "jawaban": "Jadwal pengisian KRS biasanya: 1) Diumumkan 2-3 minggu sebelum semester berakhir, 2) Periode pengisian berlangsung 1-2 minggu, 3) Cek kalender akademik di website resmi universitas, 4) Pantau pengumuman dari fakultas dan program studi, 5) Biasanya dilaksanakan pada minggu terakhir masa perkuliahan, 6) Konsultasi PA dilakukan sebelum masa pengisian dimulai."
+  },
+  {
+    "pertanyaan": "Bagaimana prosedur pengisian KRS secara online?",
+    "jawaban": "Prosedur pengisian KRS online: 1) Login ke sistem akademik dengan username dan password, 2) Pilih menu 'KRS' atau 'Rencana Studi', 3) Pilih semester yang akan diambil, 4) Tambahkan mata kuliah dengan klik 'Tambah' atau drag-drop, 5) Cek total SKS dan jadwal bentrok, 6) Review kembali pilihan mata kuliah, 7) Klik 'Submit' atau 'Simpan' untuk finalisasi."
+  },
+  {
+    "pertanyaan": "Apa yang harus saya lakukan jika mengalami kesulitan saat mengisi KRS online?",
+    "jawaban": "Solusi kesulitan pengisian KRS online: 1) Pastikan koneksi internet stabil, 2) Gunakan browser yang direkomendasikan (Chrome, Firefox), 3) Clear cache dan cookies browser, 4) Coba akses di waktu yang berbeda, 5) Hubungi helpdesk IT universitas, 6) Minta bantuan teman atau tutor, 7) Datang langsung ke administrasi fakultas untuk bantuan."
+  },
+  {
+    "pertanyaan": "Siapa yang harus saya hubungi jika ada masalah teknis dengan sistem KRS?",
+    "jawaban": "Kontak untuk masalah teknis KRS: 1) Helpdesk IT universitas (check website untuk nomor kontak), 2) Bagian administrasi akademik fakultas, 3) Operator sistem akademik di gedung rektorat, 4) Email support sistem akademik, 5) WhatsApp atau hotline yang disediakan universitas, 6) Datang langsung ke ruang IT atau administrasi akademik."
+  },
+  {
+    "pertanyaan": "Bagaimana cara mengetahui status KRS saya sudah disetujui atau belum?",
+    "jawaban": "Cara cek status KRS: 1) Login ke sistem akademik, 2) Masuk ke menu 'Status KRS' atau 'Riwayat KRS', 3) Lihat kolom status: 'Pending', 'Disetujui', atau 'Ditolak', 4) Cek email untuk notifikasi otomatis, 5) Hubungi dosen pembimbing akademik, 6) Tanyakan ke administrasi fakultas jika status tidak jelas."
+  },
+  {
+    "pertanyaan": "Apakah ada batas waktu revisi KRS? Bagaimana prosedurnya?",
+    "jawaban": "Batas waktu dan prosedur revisi KRS: 1) Masa revisi biasanya 1-2 minggu setelah perkuliahan dimulai, 2) Isi formulir revisi KRS dengan persetujuan dosen PA, 3) Serahkan ke administrasi fakultas dengan dokumen pendukung, 4) Bayar biaya administrasi revisi jika ada, 5) Tunggu persetujuan dari fakultas, 6) Setelah batas waktu, revisi hanya dalam kondisi khusus tertentu."
+  },
+  {
+    "pertanyaan": "Apa saja dokumen yang perlu disiapkan untuk pengisian KRS?",
+    "jawaban": "Dokumen yang diperlukan untuk KRS: 1) Transkrip nilai semester sebelumnya, 2) Kartu rencana studi semester lalu, 3) Bukti pembayaran UKT/SPP yang sudah lunas, 4) Form konsultasi dari dosen pembimbing akademik, 5) Surat keterangan aktif mahasiswa, 6) Dokumen tambahan jika ada (beasiswa, cuti, dll), 7) KTM yang masih berlaku."
+  },
+  {
+    "pertanyaan": "Bagaimana cara mengetahui dosen pembimbing akademik saya?",
+    "jawaban": "Cara mengetahui dosen PA: 1) Cek sistem akademik pada menu 'Profil Mahasiswa' atau 'Data Akademik', 2) Lihat papan pengumuman di fakultas atau program studi, 3) Tanyakan ke administrasi fakultas atau program studi, 4) Cek buku panduan mahasiswa, 5) Hubungi bagian kemahasiswaan fakultas. Konsultasi dengan dosen PA sangat dianjurkan sebelum mengisi KRS."
+  },
+  {
+    "pertanyaan": "Bagaimana prosedur pengajuan cuti akademik?",
+    "jawaban": "Prosedur pengajuan cuti akademik: 1) Isi formulir pengajuan cuti akademik, 2) Lampirkan surat keterangan dari dokter/instansi terkait (jika sakit/bekerja), 3) Mendapat persetujuan dosen pembimbing akademik, 4) Serahkan ke administrasi fakultas, 5) Bayar biaya administrasi cuti, 6) Tunggu persetujuan dari dekan fakultas, 7) Simpan surat izin cuti untuk keperluan reaktivasi."
+  },
+  {
+    "pertanyaan": "Apa saja syarat untuk mengajukan cuti akademik?",
+    "jawaban": "Syarat pengajuan cuti akademik: 1) Telah menempuh minimal 2 semester, 2) Tidak sedang dalam status sanksi akademik, 3) Melampirkan alasan yang jelas (sakit, ekonomi, kerja, dll), 4) Mendapat persetujuan orang tua/wali, 5) Menyelesaikan kewajiban administratif dan finansial, 6) Tidak sedang mengambil mata kuliah di semester berjalan, 7) Memenuhi syarat khusus sesuai kebijakan fakultas."
+  },
+  {
+    "pertanyaan": "Berapa lama maksimal cuti akademik yang diperbolehkan?",
+    "jawaban": "Batas maksimal cuti akademik: 1) Cuti dapat diambil maksimal 4 semester (2 tahun) selama masa studi, 2) Tidak boleh berturut-turut lebih dari 2 semester, 3) Harus ada jeda minimal 1 semester aktif sebelum cuti lagi, 4) Total masa studi tetap terhitung termasuk masa cuti, 5) Melebihi batas maksimal dapat menyebabkan putus studi, 6) Kebijakan dapat berbeda antar fakultas."
+  },
+  {
+    "pertanyaan": "Apakah ada biaya yang harus dibayar saat mengajukan cuti akademik?",
+    "jawaban": "Biaya cuti akademik: 1) Biaya administrasi pengajuan cuti sesuai ketentuan universitas, 2) Biaya pemeliharaan status mahasiswa per semester (lebih rendah dari UKT normal), 3) Tidak ada biaya SKS selama cuti, 4) Biaya reaktivasi saat kembali kuliah, 5) Biaya dapat berbeda antar program studi, 6) Hubungi bagian keuangan untuk informasi detail biaya."
+  },
+  {
+    "pertanyaan": "Bagaimana dampak cuti akademik terhadap masa studi saya?",
+    "jawaban": "Dampak cuti akademik terhadap masa studi: 1) Masa cuti tetap dihitung dalam batas waktu studi maksimal, 2) Dapat memperpanjang waktu kelulusan, 3) Mempengaruhi angkatan dan teman sekelas, 4) Kemungkinan perubahan kurikulum saat kembali, 5) Dapat mempengaruhi kontinuitas pembelajaran, 6) Perlu penyesuaian rencana studi saat reaktivasi, 7) Konsultasi dengan dosen PA untuk strategi recovery."
+  },
+  {
+    "pertanyaan": "Apa yang harus saya lakukan setelah masa cuti akademik saya berakhir?",
+    "jawaban": "Langkah setelah cuti akademik berakhir: 1) Mengajukan reaktivasi status mahasiswa, 2) Bayar biaya reaktivasi dan UKT semester berjalan, 3) Konsultasi dengan dosen PA untuk penyusunan KRS, 4) Update data dan informasi akademik, 5) Cek perubahan kurikulum atau mata kuliah, 6) Daftar ulang sesuai prosedur yang berlaku, 7) Mengikuti masa orientasi jika diperlukan."
+  },
+  {
+    "pertanyaan": "Bagaimana cara drop mata kuliah yang sudah saya ambil?",
+    "jawaban": "Prosedur drop mata kuliah: 1) Isi formulir pembatalan mata kuliah, 2) Mendapat persetujuan dosen pengampu mata kuliah, 3) Persetujuan dosen pembimbing akademik, 4) Serahkan ke administrasi fakultas sebelum batas waktu yang ditentukan, 5) Bayar biaya administrasi jika ada, 6) Pastikan masih memenuhi batas minimal SKS (12 SKS), 7) Simpan bukti pembatalan untuk arsip."
+  },
+  {
+    "pertanyaan": "Apa yang harus dilakukan jika IPK saya turun drastis?",
+    "jawaban": "Langkah jika IPK turun drastis: 1) Konsultasi dengan dosen pembimbing akademik, 2) Evaluasi metode belajar dan manajemen waktu, 3) Identifikasi mata kuliah yang bermasalah, 4) Pertimbangkan mengulang mata kuliah dengan nilai rendah, 5) Ikuti program remedial atau bimbingan belajar, 6) Kurangi beban SKS di semester berikutnya, 7) Manfaatkan konseling akademik jika tersedia."
+  },
+  {
+    "pertanyaan": "Bisakah saya mengulang mata kuliah yang sudah saya ambil?",
+    "jawaban": "Aturan mengulang mata kuliah: 1) Mata kuliah dengan nilai D atau E wajib diulang, 2) Mata kuliah dengan nilai C dapat diulang untuk memperbaiki IPK, 3) Nilai terbaik yang akan dihitung dalam IPK, 4) Ada batas maksimal berapa kali bisa mengulang, 5) Harus tetap memenuhi batas waktu studi, 6) Konsultasi dengan dosen PA sebelum mengulang, 7) Prioritaskan mata kuliah yang penting untuk kelulusan."
+  },
+  {
+    "pertanyaan": "Bagaimana cara melihat hasil evaluasi dosen dan mata kuliah?",
+    "jawaban": "Cara melihat evaluasi dosen dan mata kuliah: 1) Login ke sistem akademik, 2) Pilih menu 'Evaluasi Pembelajaran' atau 'Feedback', 3) Isi kuesioner evaluasi untuk setiap mata kuliah, 4) Hasil evaluasi biasanya tersedia di akhir semester, 5) Gunakan informasi ini untuk memilih dosen di semester depan, 6) Evaluasi membantu universitas meningkatkan kualitas pembelajaran."
+  },
+  {
+    "pertanyaan": "Apa yang harus saya lakukan jika tidak setuju dengan nilai yang diberikan dosen?",
+    "jawaban": "Langkah jika tidak setuju dengan nilai: 1) Periksa kembali komponen penilaian dan bobot nilai, 2) Diskusi dengan dosen pengampu secara baik-baik, 3) Minta penjelasan rinci tentang penilaian, 4) Jika tidak ada solusi, ajukan banding ke program studi, 5) Isi formulir pengajuan review nilai dengan bukti pendukung, 6) Tunggu hasil verifikasi dari tim penilai, 7) Keputusan tim penilai bersifat final."
+  },
+  {
+    "pertanyaan": "Bagaimana sistem penilaian dan grade point di universitas?",
+    "jawaban": "Sistem penilaian di universitas: Nilai A (4.00), A- (3.70), B+ (3.30), B (3.00), B- (2.70), C+ (2.30), C (2.00), C- (1.70), D (1.00), E (0.00). IPK dihitung dari rata-rata tertimbang semua nilai dikalikan SKS. Nilai minimal kelulusan adalah C (2.00). IPK minimal untuk lulus adalah 2.00. Nilai D dan E harus diulang."
+  },
+  {
+    "pertanyaan": "Apakah ada program percepatan studi untuk mahasiswa berprestasi?",
+    "jawaban": "Program percepatan studi tersedia dengan syarat: 1) IPK minimal 3.50 secara konsisten, 2) Tidak ada nilai di bawah B, 3) Menyelesaikan beban SKS lebih dari rata-rata, 4) Mendapat rekomendasi dosen PA, 5) Mengikuti seleksi program percepatan, 6) Mampu menyelesaikan tugas akhir lebih cepat, 7) Memenuhi syarat administratif khusus program percepatan."
+  },
+  {
+    "pertanyaan": "Apa itu KRS dan bagaimana cara mengisinya?",
+    "jawaban": "KRS (Kartu Rencana Studi) adalah dokumen yang berisi daftar mata kuliah yang akan diambil mahasiswa pada semester tertentu. Cara mengisinya: 1) Login ke sistem akademik, 2) Pilih menu KRS, 3) Pilih mata kuliah yang diinginkan, 4) Pastikan tidak ada bentrok jadwal, 5) Submit KRS sebelum deadline."
+  },
+  {
+  "pertanyaan": "Berapa maksimal SKS yang bisa diambil dalam satu semester?",
+  "jawaban": "Maksimal SKS yang bisa diambil tergantung pada IPK semester sebelumnya: IPK ≥ 3.00 dapat mengambil maksimal 24 SKS, IPK 2.50-2.99 dapat mengambil maksimal 21 SKS, IPK 2.00-2.49 dapat mengambil maksimal 18 SKS, IPK < 2.00 dapat mengambil maksimal 15 SKS."
+  },
+  {
+  "pertanyaan": "Kapan deadline pengisian KRS?",
+  "jawaban": "Deadline pengisian KRS biasanya 2 minggu setelah masa registrasi dimulai. Tanggal pasti dapat dilihat di kalender akademik atau pengumuman dari bagian akademik."
+  },
+  {
+  "pertanyaan": "Apa itu KRS dan bagaimana cara mengisinya?",
+  "jawaban": "KRS (Kartu Rencana Studi) adalah dokumen yang berisi daftar mata kuliah yang akan diambil mahasiswa pada semester tertentu. Cara mengisinya: 1) Login ke sistem akademik, 2) Pilih menu KRS, 3) Pilih mata kuliah yang diinginkan, 4) Pastikan tidak ada bentrok jadwal, 5) Submit KRS sebelum deadline."
+  },
+  {
+  "pertanyaan": "Berapa maksimal SKS yang bisa diambil dalam satu semester?",
+  "jawaban": "Maksimal SKS yang bisa diambil tergantung pada IPK semester sebelumnya: IPK ≥ 3.00 dapat mengambil maksimal 24 SKS, IPK 2.50-2.99 dapat mengambil maksimal 21 SKS, IPK 2.00-2.49 dapat mengambil maksimal 18 SKS, IPK < 2.00 dapat mengambil maksimal 15 SKS."
+  },
+  {
+  "pertanyaan": "Kapan deadline pengisian KRS?",
+  "jawaban": "Deadline pengisian KRS biasanya 2 minggu setelah masa registrasi dimulai. Tanggal pasti dapat dilihat di kalender akademik atau pengumuman dari bagian akademik. Pastikan untuk tidak melewati deadline karena akan dikenakan denda keterlambatan."
+  },
+  {
+  "pertanyaan": "Bagaimana cara menambah atau drop mata kuliah setelah KRS disubmit?",
+  "jawaban": "Setelah KRS disubmit, Anda masih bisa melakukan perubahan dalam masa revisi KRS (biasanya 1 minggu setelah deadline). Setelah masa revisi berakhir, perubahan hanya bisa dilakukan melalui prosedur khusus dengan persetujuan dosen pembimbing akademik dan pembayaran biaya administrasi."
+  },
+  {
+  "pertanyaan": "Apa yang harus dilakukan jika ada bentrok jadwal mata kuliah?",
+  "jawaban": "Jika ada bentrok jadwal: 1) Cek apakah ada kelas paralel untuk mata kuliah yang sama, 2) Konsultasi dengan dosen pembimbing akademik untuk mencari solusi, 3) Prioritaskan mata kuliah wajib dan prasyarat, 4) Pertimbangkan untuk mengambil mata kuliah tersebut di semester berikutnya."
+  },
+  {
+  "pertanyaan": "Apakah bisa mengambil mata kuliah lintas fakultas?",
+  "jawaban": "Ya, mahasiswa dapat mengambil mata kuliah lintas fakultas dengan syarat: 1) Mendapat persetujuan dari dosen pembimbing akademik, 2) Mata kuliah tersebut relevan dengan program studi, 3) Memenuhi prasyarat yang diperlukan, 4) Tidak melebihi batas maksimal SKS yang diizinkan."
+  },
+  {
+  "pertanyaan": "Bagaimana cara melihat transkrip nilai dan IPK saat ini?",
+  "jawaban": "Untuk melihat transkrip nilai dan IPK: 1) Login ke sistem akademik, 2) Pilih menu 'Transkrip Nilai' atau 'Nilai', 3) Pilih semester yang ingin dilihat atau pilih 'Semua Semester', 4) Sistem akan menampilkan nilai dan IPK kumulatif Anda."
+  },
+  {
+  "pertanyaan": "Apa itu mata kuliah prasyarat dan bagaimana pengaruhnya terhadap KRS?",
+  "jawaban": "Mata kuliah prasyarat adalah mata kuliah yang harus sudah diambil dan lulus sebelum mengambil mata kuliah tertentu. Sistem akan otomatis memblokir pengambilan mata kuliah jika prasyarat belum terpenuhi. Pastikan untuk memeriksa prasyarat sebelum menyusun KRS."
+  },
+  {
+  "pertanyaan": "Bagaimana cara konsultasi dengan dosen pembimbing akademik?",
+  "jawaban": "Untuk konsultasi dengan dosen pembimbing akademik: 1) Cek jadwal konsultasi dosen di sistem atau tanyakan ke program studi, 2) Buat janji temu melalui email atau langsung datang ke ruangan dosen, 3) Siapkan draft KRS dan pertanyaan yang ingin diajukan, 4) Diskusikan rencana studi dan kendala yang dihadapi."
+  },
+  {
+  "pertanyaan": "Apa yang harus dilakukan jika lupa password sistem akademik?",
+  "jawaban": "Jika lupa password sistem akademik: 1) Gunakan fitur 'Lupa Password' di halaman login, 2) Masukkan username/NIM dan email yang terdaftar, 3) Cek email untuk link reset password, 4) Jika masih bermasalah, hubungi bagian IT atau administrasi akademik dengan membawa KTM dan identitas diri."
+  },
+  {
+  "pertanyaan": "Apakah ada biaya tambahan untuk pengisian KRS?",
+  "jawaban": "Pengisian KRS normal tidak dikenakan biaya tambahan. Namun, biaya tambahan mungkin dikenakan untuk: 1) Keterlambatan pengisian KRS, 2) Perubahan KRS di luar masa revisi, 3) Pengambilan mata kuliah dengan SKS melebihi batas normal, 4) Mata kuliah praktikum tertentu yang memerlukan biaya laboratorium."
+  },
+  {
+  "pertanyaan": "Bagaimana cara mengetahui kuota kelas dan ketersediaan tempat?",
+  "jawaban": "Untuk mengetahui kuota kelas: 1) Login ke sistem akademik, 2) Pada halaman pemilihan mata kuliah, akan tertera informasi kuota dan sisa tempat, 3) Pilih kelas dengan status 'Tersedia' atau yang masih ada sisa kuota, 4) Jika kelas penuh, bisa mendaftar di waiting list jika tersedia atau pilih kelas paralel lainnya."
+  }
+]

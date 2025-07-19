@@ -1,0 +1,34 @@
+[
+  {
+    "pertanyaan": "Bagaimana cara mengisi KRS?",
+    "jawaban": "Pengisian KRS umumnya dilakukan secara online melalui Sistem Informasi Akademi kampusmu. Kamu perlu login, pilih menu pengisian KRS, lalu ikuti petunjuk yang ada untuk memilih mata kuliah."
+  },
+  {
+    "pertanyaan": "Berapa batas maksimal SKS yang bisa saya ambil per semester?",
+    "jawaban": "Batas maksimal SKS yang bisa diambil per semester itu bervariasi di setiap universitas dan program studi. Umumnya berkisar antara **20-24 SKS**. Untuk mengetahui batas pastinya di kampusmu, kamu bisa mengecek buku panduan akademik atau menghubungi bagian akademik fakultasmu."
+  },
+  {
+    "pertanyaan": "Apa itu mata kuliah prasyarat dan bagaimana cara mengeceknya?",
+    "jawaban": "**Mata kuliah prasyarat** adalah mata kuliah yang harus kamu ambil dan lulus terlebih dahulu sebelum bisa mengambil mata kuliah lain yang lebih lanjut. Kamu bisa mengecek informasi prasyarat ini pada **kurikulum program studi** di website kampus, di silabus mata kuliah, atau menanyakan langsung ke dosen pembimbing akademik (PA) atau bagian akademik."
+  },
+  {
+    "pertanyaan": "Bagaimana jika ada bentrok jadwal kuliah dan apa solusinya?",
+    "jawaban": "Jika ada **bentrok jadwal kuliah** saat mengisi KRS, kamu tidak akan bisa mengambil kedua mata kuliah tersebut. Solusinya adalah kamu harus memilih salah satu mata kuliah yang tidak bentrok. Kamu juga bisa mencari kelas lain untuk mata kuliah yang sama jika tersedia, atau menunggu semester berikutnya untuk mengambil mata kuliah yang bentrok tersebut. Penting untuk merencanakan KRS dengan hati-hati untuk menghindari bentrok."
+  },
+  {
+    "pertanyaan": "Kapan saya harus konsultasi dengan dosen pembimbing dan apa saja yang perlu dibahas?",
+    "jawaban": "Idealnya, kamu harus **konsultasi dengan dosen pembimbing (PA)** sebelum periode pengisian KRS. Hal ini penting untuk membahas rencana studimu, pemilihan mata kuliah yang sesuai, mengecek prasyarat, hingga meninjau Indeks Prestasi (IP) kamu. Konsultasi ini akan membantumu menyusun KRS yang optimal agar lulus tepat waktu."
+  },
+  {
+    "pertanyaan": "Bisakah saya mengambil mata kuliah lintas fakultas? Bagaimana prosedurnya?",
+    "jawaban": "Beberapa universitas memang memperbolehkan mahasiswa mengambil **mata kuliah lintas fakultas** atau lintas program studi. Prosedurnya bervariasi, tapi umumnya melibatkan permohonan izin dari ketua program studi asal, persetujuan dari program studi tujuan, dan pengisian formulir khusus. Kamu perlu mengecek **peraturan akademik** di kampusmu untuk detail prosedurnya."
+  },
+  {
+    "pertanyaan": "Apa yang harus saya lakukan jika mengalami masalah teknis dengan sistem akademik saat mengisi KRS?",
+    "jawaban": "Jika kamu mengalami **masalah teknis** saat mengisi KRS di sistem akademik (seperti tidak bisa login, error saat menyimpan, atau data tidak muncul), segera **hubungi bagian IT kampus** atau **administrator SIAKAD**. Sertakan screenshot masalah yang kamu alami agar mereka bisa membantu lebih cepat."
+  },
+  {
+    "pertanyaan": "Bagaimana rincian biaya KRS dan administrasi terkait lainnya?",
+    "jawaban": "Rincian **biaya KRS** akan tergantung pada jumlah SKS yang kamu ambil dan biaya per SKS di kampusmu. Biasanya ada juga biaya administrasi atau biaya praktikum/lab tambahan. Kamu bisa melihat rincian pembayaran ini di **portal pembayaran mahasiswa** atau pengumuman dari bagian keuangan kampus. Jika ada pertanyaan, langsung hubungi bagian keuangan kampusmu."
+  }
+]
