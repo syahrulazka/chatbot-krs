@@ -132,24 +132,6 @@ self.similarity_threshold = 0.4
 self.fuzzy_threshold = 90
 ```
 
-## 🤝 Kontribusi
-
-1. Fork repository ini
-2. Buat branch fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
-## 📝 Pengembangan Selanjutnya
-
-- [ ] Integrasi dengan database
-- [ ] Penambahan fitur pembelajaran (learning)
-- [ ] Support untuk file PDF dan Word
-- [ ] API REST untuk integrasi eksternal
-- [ ] Multi-language support
-- [ ] Analytics dashboard
-- [ ] Voice input/output
-
 ## 🐛 Troubleshooting
 
 **Masalah instalasi fuzzywuzzy:**
